@@ -30,5 +30,9 @@ Membangun sistem pemantauan kualitas air pipa terintegrasi berbasis mikrokontrol
 | 5 | Anggara Bayu Saputra| 2124600057 |Ui/Ux |
 | 6 | Aissyah Fitriani| 2124600059 | Nonteknis | 
 
+## Preview Presentasi
+
+🔗 [Lihat Presentasi Canva](https://www.canva.com/design/DAHLUscpbcU/ThfkQryM6eWiujemS9Ijmg/edit)
+
 ## Dokumentasi 
 # <img src="https://github.com/RofifFairuzZaki/Aquasafe-Pipe-ATmega2560-Kelompok/blob/0adad27946f42675e119a9b82b09b4ef7cff12cf/asset/WhatsApp%20Image%202026-06-01%20at%2021.53.52.jpeg">
