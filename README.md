@@ -19,7 +19,7 @@ Membangun sistem pemantauan kualitas air pipa terintegrasi berbasis mikrokontrol
 
 
 ## Daftar Anggota Kelompok 4
-# <img src="">
+# <img src="https://github.com/RofifFairuzZaki/Aquasafe-Pipe-ATmega2560-Kelompok/blob/2adc93c3fc1aa0ede9857d172fafd2d2b8e03d2e/asset/Screenshot%202026-06-01%20214418.png">
 
 | No. | Nama Mahasiswa | NRP | Role / Jobdesk |
 | :---: | :--- | :--- | :--- |
