@@ -125,6 +125,8 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 
 ## 🐟 Fishbone Analysis
 
+<img src="https://github.com/RofifFairuzZaki/Aquasafe-Pipe-ATmega2560-Kelompok/blob/86244a4e1654d56d46b18668b873a5c9a5530c7c/asset/Screenshot%202026-06-06%20175024.png">
+
 
 ---
 
