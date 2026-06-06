@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "author": "046_Ridho Yanuar",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-mega", "id": "mega", "top": 0.6, "left": -3.6, "attrs": {} },
+    {
+      "type": "wokwi-buzzer",
+      "id": "bz1",
+      "top": -141.6,
+      "left": 136.2,
+      "attrs": { "volume": "0.1" }
+    },
+    {
+      "type": "wokwi-slide-potentiometer",
+      "id": "pot1",
+      "top": 302.6,
+      "left": 95,
+      "attrs": { "travelLength": "30" }
+    },
+    {
+      "type": "wokwi-slide-potentiometer",
+      "id": "pot2",
+      "top": 302.6,
+      "left": 373.4,
+      "attrs": { "travelLength": "30" }
+    },
+    {
+      "type": "wokwi-slide-potentiometer",
+      "id": "pot3",
+      "top": 302.6,
+      "left": 671,
+      "attrs": { "travelLength": "30" }
+    },
+    {
+      "type": "wokwi-text",
+      "id": "text4",
+      "top": 403.2,
+      "left": 163.2,
+      "attrs": { "text": "Sensor pH" }
+    },
+    {
+      "type": "wokwi-text",
+      "id": "text5",
+      "top": 412.8,
+      "left": 432,
+      "attrs": { "text": "Sensor TDS" }
+    },
+    {
+      "type": "wokwi-text",
+      "id": "text6",
+      "top": 412.8,
+      "left": 739.2,
+      "attrs": { "text": "Sensor Turbidity" }
+    },
+    {
+      "type": "wokwi-lcd1602",
+      "id": "lcd1",
+      "top": -185.6,
+      "left": 370.4,
+      "attrs": { "pins": "i2c" }
+    }
+  ],
+  "connections": [
+    [ "bz1:1", "mega:GND.1", "black", [ "v19.2", "h-374.4" ] ],
+    [ "bz1:2", "mega:10", "limegreen", [ "v48", "h-355.6" ] ],
+    [
+      "pot1:GND",
+      "mega:GND.1",
+      "black",
+      [ "v0", "h34", "v-57.6", "h-364.8", "v-307.2", "h115.2", "v0", "h28.8" ]
+    ],
+    [ "pot1:VCC", "mega:5V", "red", [ "h-28.8", "v-105.6", "h86.4" ] ],
+    [ "pot1:SIG", "mega:A0", "yellow", [ "h-57.6", "v-106.4", "h153.6" ] ],
+    [
+      "pot2:GND",
+      "mega:GND.1",
+      "black",
+      [ "v0", "h34", "v-57.6", "h-643.2", "v-307.2", "h153.6" ]
+    ],
+    [ "pot2:SIG", "mega:A1", "violet", [ "h-57.6", "v-106.4", "h-96" ] ],
+    [ "pot2:VCC", "mega:5V", "red", [ "h-19.2", "v-105.6", "h-192" ] ],
+    [
+      "pot3:GND",
+      "mega:GND.1",
+      "black",
+      [ "v0", "h62.8", "v-57.6", "h-969.6", "v-307.2", "h163.2" ]
+    ],
+    [ "pot3:VCC", "mega:5V", "red", [ "h-28.8", "v-105.6", "h-480" ] ],
+    [ "pot3:SIG", "mega:A2", "blue", [ "h-67.2", "v-135.2", "h-384" ] ],
+    [ "lcd1:SDA", "mega:20", "green", [ "h0" ] ],
+    [ "lcd1:SCL", "mega:21", "green", [ "h0" ] ],
+    [ "lcd1:GND", "mega:GND.1", "black", [ "h0" ] ],
+    [ "lcd1:VCC", "mega:5V", "red", [ "h-422.4", "v384.1", "h211.2", "v-54.9" ] ]
+  ],
+  "dependencies": {}
+}
