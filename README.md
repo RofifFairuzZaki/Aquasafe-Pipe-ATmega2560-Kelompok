@@ -89,19 +89,19 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 ---
 
 ## Komponen
-| No | Komponen | Jumlah / Keterangan |
+| No | Komponen | Qty |
 | :---: | :--- | :---: |
-| 1 | Arduino Mega 2560 Compatible | 1 pcs |
-| 2 | Sensor pH + Probe pH | 1 set |
-| 3 | Sensor TDS Gravity | 1 pcs |
-| 4 | Sensor Turbidity | 1 pcs |
-| 5 | LED Merah 5 mm | Secukupnya |
-| 6 | LED Kuning 5 mm | Secukupnya |
-| 7 | LED Hijau 5 mm | Secukupnya |
-| 8 | Resistor 220 Ω | Secukupnya |
-| 9 | Buzzer Aktif 5V | 1 pcs |
-| 10 | Kabel Jumper Set | 1 pack |
-| 11 | Adaptor/USB Power Supply | 1 pcs |
+| 1 | Arduino Mega 2560 Compatible | 1 |
+| 2 | Sensor pH + Probe pH | 1 |
+| 3 | Sensor TDS Gravity | 1 |
+| 4 | Sensor Turbidity | 1 |
+| 5 | LED Merah 5 mm | 1 |
+| 6 | LED Kuning 5 mm | 1 |
+| 7 | LED Hijau 5 mm | 1 |
+| 8 | Resistor 220 Ω | 3 |
+| 9 | Buzzer Aktif 5V | 1 |
+| 10 | Kabel Jumper Set | 1 |
+| 11 | Adaptor/USB Power Supply | 1 |
 
 ---
 
