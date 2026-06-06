@@ -38,4 +38,4 @@ Membangun sistem pemantauan kualitas air pipa terintegrasi berbasis mikrokontrol
 # <img src="https://github.com/RofifFairuzZaki/Aquasafe-Pipe-ATmega2560-Kelompok/blob/0adad27946f42675e119a9b82b09b4ef7cff12cf/asset/WhatsApp%20Image%202026-06-01%20at%2021.53.52.jpeg">
 
 ## MindMap
-# https://github.com/RofifFairuzZaki/Aquasafe-Pipe-ATmega2560-Kelompok/blob/bd52de7d3b23e0b7c8ebb63cbd3d5f75e6af3e1c/asset/figjam.jpeg
+# <image src="https://github.com/RofifFairuzZaki/Aquasafe-Pipe-ATmega2560-Kelompok/blob/bd52de7d3b23e0b7c8ebb63cbd3d5f75e6af3e1c/asset/figjam.jpeg">
