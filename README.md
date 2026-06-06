@@ -103,6 +103,8 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 | 10 | Kabel Jumper Set | 1 pack |
 | 11 | Adaptor/USB Power Supply | 1 pcs |
 
+---
+
 ## 🔬 Sensors Used
 
 | Sensor           | Function                       |
