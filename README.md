@@ -125,11 +125,6 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 
 ## 🐟 Fishbone Analysis
 
-<div align="center">
-
-<img src="asset/image.png" width="900">
-
-</div>
 
 ---
 
