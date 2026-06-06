@@ -152,7 +152,7 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 
 <div align="center">
 
-<img src="asset/Biru dan Kuning Modern Otomasi Proses Bisnis Presentasi_page-0001.jpg" width="900">
+<img src="asset/image.jpg" width="900">
 
 </div>
 
