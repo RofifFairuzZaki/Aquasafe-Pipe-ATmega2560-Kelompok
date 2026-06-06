@@ -88,7 +88,7 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 
 ---
 
-## Komponen
+## 🔧 Komponen
 | No | Komponen | Qty |
 | :---: | :--- | :---: |
 | 1 | Arduino Mega 2560 Compatible | 1 |
