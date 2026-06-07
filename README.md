@@ -211,6 +211,19 @@ Politeknik Elektronika Negeri Surabaya (PENS)
 ## ⚙️ Desain Simulasi
 <img src="https://github.com/RofifFairuzZaki/Aquasafe-Pipe-ATmega2560-Kelompok/blob/754051e77d38df47483824bb9c749405b17b33b3/asset/WhatsApp%20Image%202026-06-06%20at%2018.15.43.jpeg"> 
 
+## Hardware
+<div align="center">
+  <img src="asset/Screenshot%202026-06-07%20213132.png" width="900">
+</div>
+<div align="center">
+  <img src="asset/Screenshot%202026-06-07%20213218.png" width="900">
+</div>
+<div align="center">
+  <img src="asset/Screenshot%202026-06-07%20213233.png" width="900">
+</div>
+
+---
+
 ## 📸 Project Documentation
 
 <div align="center">
