@@ -183,19 +183,6 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 
 ---
 
-## 👨‍💻 Team Members
-
-| No | Name                 | NRP        | Role              |
-| -- | -------------------- | ---------- | ----------------- |
-| 1  | Rofif Fairuz Zaki    | 2124600040 | Project Manager   |
-| 2  | Didit Bayu Kurnianto | 2124600047 | Programmer        |
-| 3  | Ridho Yanuar         | 2124600046 | Hardware Engineer |
-| 4  | Moch. Akhdan Nabilly | 2124600038 | 3D Designer       |
-| 5  | Anggara Bayu Saputra | 2124600057 | UI/UX Designer    |
-| 6  | Aissyah Fitriani     | 2124600059 | Nonteknis         |
-
----
-
 ## 🛠️ Technologies Used
 
 * Arduino Mega 2560
