@@ -149,10 +149,7 @@ Politeknik Elektronika Negeri Surabaya (PENS)
 | 10 | Kabel Jumper Set | 1 |
 | 11 | Adaptor/USB Power Supply | 1 |
 
----
-
-## 🔍 Visualisasi Sistem 
-
+--- 
 ## Desain Hardware
 
 ## Desain 3D 
