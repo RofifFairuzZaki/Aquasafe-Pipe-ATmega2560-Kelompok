@@ -208,8 +208,6 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 
 ---
 
-## 🎓 Academic Information
-
 ### Supported By
 
 **Dosen Pengampu**
