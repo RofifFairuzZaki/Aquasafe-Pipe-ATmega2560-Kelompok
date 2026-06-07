@@ -200,6 +200,12 @@ Politeknik Elektronika Negeri Surabaya (PENS)
 
 ## UI/UX Web Dashboard
 
+<div align="center">
+  
+  <img src="asset/Screenshot%202026-06-07%20185630.png" width="900" alt="Block Diagram">
+  
+</div>
+
 ---
 
 ## ⚙️ Desain Simulasi
