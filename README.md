@@ -10,7 +10,7 @@
 ![IoT](https://img.shields.io/badge/IoT-Monitoring-blue?style=for-the-badge)
 ![Water Quality](https://img.shields.io/badge/Water-Quality-success?style=for-the-badge)
 ![Corrosion Detection](https://img.shields.io/badge/Corrosion-Detection-orange?style=for-the-badge)
-![Simulasi](https://img.shields.io/badge/drive.google.com/uc?id=1a8QJpJi3p21TPWfzdblMvVUY1U7iHCDc?style=for-the-badge)
+<a href="https://drive.google.com/drive/folders/1a8QJpJi3p21TPWfzdblMvVUY1U7iHCDc?usp=sharing" target="_blank"><img src="https://drive.google.com/uc?id=ID_FILE_GAMBAR_SIMULASI_ANDA" alt="Simulasi" height="28px" style="vertical-align:middle;"></a>
 
 ### 🚰 Monitoring Kualitas Air dan Deteksi Korosi Pipa Berbasis IoT
 
