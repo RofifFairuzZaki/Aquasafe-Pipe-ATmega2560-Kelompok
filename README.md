@@ -205,20 +205,6 @@ Politeknik Elektronika Negeri Surabaya (PENS)
 
 ---
 
-## 🎥 Project Presentation
-
-<div align="center">
-
-### 📊 Open Presentation
-
-<a href="https://www.canva.com/design/DAHLUscpbcU/ThfkQryM6eWiujemS9Ijmg/edit">
-<img src="https://img.shields.io/badge/Open-Canva_Presentation-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-</a>
-
-</div>
-
----
-
 ## 🛠️ Technologies Used
 
 * Arduino Mega 2560
