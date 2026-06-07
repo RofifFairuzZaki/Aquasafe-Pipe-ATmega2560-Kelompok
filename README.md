@@ -36,7 +36,7 @@ Data dari sensor dikirim secara real-time ke dashboard IoT sehingga memungkinkan
 Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Mega yang mampu mendeteksi potensi korosi dan pelarutan timbal (Pb) secara real-time guna mencegah kontaminasi air bersih serta memungkinkan tindakan preventif secara cepat melalui dashboard monitoring jarak jauh.
 
 ---
-
+## 🎓 Academic Information
 ## 👨‍💻 Team Members
 
 | No | Name                 | NRP        | Role              |
