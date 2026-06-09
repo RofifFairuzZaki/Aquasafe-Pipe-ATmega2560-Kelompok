@@ -228,6 +228,17 @@ Politeknik Elektronika Negeri Surabaya (PENS)
 <img src="3D DESIGN/Screenshot 2026-06-09 175252.png">
 
 </div>
+
+<div align="center">
+
+<img src="3D DESIGN/Screenshot 2026-06-09 175210.png">
+
+</div>
+<div align="center">
+
+<img src="3D DESIGN/Screenshot 2026-06-07 211658.png">
+
+</div>
 ---
 
 ## 📸 Project Documentation
