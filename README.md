@@ -45,6 +45,7 @@ Data dari sensor dikirim secara real-time ke dashboard IoT sehingga memungkinkan
 Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Mega yang mampu mendeteksi potensi korosi dan pelarutan timbal (Pb) secara real-time guna mencegah kontaminasi air bersih serta memungkinkan tindakan preventif secara cepat melalui dashboard monitoring jarak jauh.
 
 ---
+
 ## 🎓 Academic Information
 
 <img src="https://github.com/RofifFairuzZaki/Aquasafe-Pipe-ATmega2560-Kelompok/blob/798f2d8483b9239809da75287bcfceb59c081fe5/asset/Screenshot%202026-06-09%20152330.png">
@@ -119,6 +120,7 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
   
 </div>
 
+---
 
 ## 🛠️ Technologies Used
 
@@ -162,7 +164,6 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 
 <img src="https://github.com/RofifFairuzZaki/Aquasafe-Pipe-ATmega2560-Kelompok/blob/86244a4e1654d56d46b18668b873a5c9a5530c7c/asset/Screenshot%202026-06-06%20175024.png">
 
-
 ---
 
 ## 🧠 Mind Map
@@ -198,6 +199,8 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 ## ⚙️  Visualisasi Sistem
 <img src="https://github.com/RofifFairuzZaki/Aquasafe-Pipe-ATmega2560-Kelompok/blob/754051e77d38df47483824bb9c749405b17b33b3/asset/WhatsApp%20Image%202026-06-06%20at%2018.15.43.jpeg"> 
 
+---
+
 ## Hardware
 <div align="center">
   <img src="asset/Screenshot%202026-06-07%20213132.png" width="900">
@@ -228,6 +231,7 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 <img src="3D DESIGN/Screenshot 2026-06-07 211658.png">
 
 </div>
+
 ---
 
 ## 📸 Project Documentation
