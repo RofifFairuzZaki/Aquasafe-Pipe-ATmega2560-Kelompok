@@ -12,11 +12,15 @@
 </a>
 
 <a href="https://drive.google.com/drive/folders/1a8QJpJi3p21TPWfzdblMvVUY1U7iHCDc?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Video_Simulasi-FF4B4B?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Simulasi">
+    <img src="https://img.shields.io/badge/Video_Simulasi-00979D?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Simulasi">
 </a>
 
 <a href="https://www.canva.com/design/DAHLUscpbcU/ThfkQryM6eWiujemS9Ijmg/edit" target="_blank">
-    <img src="https://img.shields.io/badge/PPT_Presentasi-7B61FF?style=for-the-badge&logo=canva&logoColor=white" alt="PPT Presentasi">
+    <img src="https://img.shields.io/badge/PPT_Presentasi-00979D?style=for-the-badge&logo=canva&logoColor=white" alt="PPT Presentasi">
+</a>
+
+<a href="https://drive.google.com/drive/folders/1JHw-K5eN-EZD2-VicYE0Q_ozoWE8siBY?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Iklan Produk-00979D?style=for-the-badge&logo=canva&logoColor=white" alt="PPT Presentasi">
 </a>
 
 </div>
