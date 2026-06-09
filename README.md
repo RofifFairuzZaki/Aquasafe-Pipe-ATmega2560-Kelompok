@@ -150,7 +150,16 @@ Politeknik Elektronika Negeri Surabaya (PENS)
 | 11 | Adaptor/USB Power Supply | 1 |
 
 --- 
-## Desain Hardware
+## 🛠️ Technologies Used
+
+* Arduino Mega 2560
+* ATmega2560
+* IoT Dashboard
+* Embedded C Programming
+* Water Quality Sensors
+* Corrosion Monitoring System
+
+---
 
 ## Desain 3D 
   
