@@ -194,8 +194,6 @@ Politeknik Elektronika Negeri Surabaya (PENS)
 
 ---
 
----
-
 ## UI/UX Web Dashboard
 
 <div align="center">
