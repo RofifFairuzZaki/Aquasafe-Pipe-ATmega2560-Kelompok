@@ -1,4 +1,4 @@
-<div align="center">
+
 
 #  AquaSafe Pipe
 
@@ -33,7 +33,7 @@ AquaSafe Pipe merupakan sistem monitoring kualitas air berbasis Internet of Thin
 
 Sistem menggunakan **Arduino Mega 2560 (ATmega2560)** sebagai pusat kendali yang terintegrasi dengan beberapa sensor kualitas air, yaitu:
 
-* 🌡️ Sensor pH
+*🌡️ Sensor pH
 * 💧 Sensor TDS (Total Dissolved Solids)
 * 🌫️ Sensor Turbidity (Kekeruhan)
 
@@ -78,12 +78,6 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 
 - 🏛️ **Institusi :** Politeknik Elektronika Negeri Surabaya (PENS)
 ```
-
----
-
-## 🎥 Project Presentation
-
-<div align="center">
 
 ---
 
