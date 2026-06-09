@@ -4,7 +4,7 @@
 
 ### Smart IoT-Based Water Quality & Corrosion Monitoring System
 
-<img src="asset/banner.png" alt="AquaSafe Pipe Banner" width="100%">
+<img src="asset/Poster aquasafe.png" width="50%">
 
 <div align="center">
 
