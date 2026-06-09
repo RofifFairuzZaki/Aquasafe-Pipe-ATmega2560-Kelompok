@@ -3,7 +3,7 @@
 # 💧 AquaSafe Pipe
 
 ### Smart IoT-Based Water Quality & Corrosion Monitoring System
-<img src="asset/Poster aquasafe.png" width="50%">
+<img src="asset/AquasafeLandScape.png" width="100%">
 
 <div align="center">
 
