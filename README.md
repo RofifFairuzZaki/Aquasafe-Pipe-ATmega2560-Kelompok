@@ -51,6 +51,8 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 
 <img src="https://github.com/RofifFairuzZaki/Aquasafe-Pipe-ATmega2560-Kelompok/blob/798f2d8483b9239809da75287bcfceb59c081fe5/asset/Screenshot%202026-06-09%20152330.png">
 
+---
+
 ## 👨‍💻 Team Members
 
 | No | Name                 | NRP        | Role              | Akun GitHub                        |
@@ -82,14 +84,6 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 ## 🎥 Project Presentation
 
 <div align="center">
-
-### 📊 Open Presentation
-
-<a href="https://www.canva.com/design/DAHLUscpbcU/ThfkQryM6eWiujemS9Ijmg/edit">
-<img src="https://img.shields.io/badge/Open-Canva_Presentation-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-</a>
-
-</div>
 
 ---
 
