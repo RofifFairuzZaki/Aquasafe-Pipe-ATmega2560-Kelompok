@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/PPT_Presentasi-00979D?style=for-the-badge&logo=canva&logoColor=white" alt="PPT Presentasi">
 </a>
 
-<a href="[https://drive.google.com/drive/folders/1JHw-K5eN-EZD2-VicYE0Q_ozoWE8siBY?usp=sharing](https://drive.google.com/file/d/138hcCL8Yh9MlO2AB4PJltIPKVSc_EZjp/view?usp=sharing)" target="_blank">
+<a href="https://drive.google.com/file/d/138hcCL8Yh9MlO2AB4PJltIPKVSc_EZjp/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Iklan Produk-00979D?style=for-the-badge&logo=canva&logoColor=white" alt="PPT Presentasi">
 </a>
 
