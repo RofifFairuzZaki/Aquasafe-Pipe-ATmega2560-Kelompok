@@ -249,3 +249,8 @@ Smart Monitoring • Safe Water • Better Future
 © 2026 Kelompok 4 – D4 Teknik Elektronika PENS
 
 </div>
+
+
+[![Open in Web](https://img.shields.io/badge/Open_in-Web_Browser-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.dev/RofifFairuzZaki/Aquasafe-Pipe-ATmega2560-Kelompok/tree/main/Hardware/VS%20Code)
+
+[![Open in VS Code](https://img.shields.io/badge/Open_in-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](vscode://vscode.git/clone?url=https://github.com/RofifFairuzZaki/Aquasafe-Pipe-ATmega2560-Kelompok.git)
