@@ -59,10 +59,10 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 | 2  | Didit Bayu Kurnianto | 2124600047 | Programmer        | https://github.com/diditbayukurnianto|
 | 3  | Ridho Yanuar         | 2124600046 | Hardware Engineer | https://github.com/RidhoYanuarAl |
 | 4  | Moch. Akhdan Nabilly | 2124600038 | 3D Designer       | https://github.com/MochAkhdanNabilly|
-| 5  | Anggara Bayu Saputra | 2124600057 | UI/UX Designer    ||
+| 5  | Anggara Bayu Saputra | 2124600057 | UI/UX Designer    |https://github.com/anggarabayusaputraku-creator|
 | 6  | Aissyah Fitriani     | 2124600059 | Nonteknis         | https://github.com/aissyahfitrian |
 
----https://github.com/anggarabayusaputraku-creator
+---
 
 ### Supported By
 
