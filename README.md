@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💧 AquaSafe Pipe
+#  AquaSafe Pipe
 
 ### Smart IoT-Based Water Quality & Corrosion Monitoring System
 <img src="asset/AquasafeLandScape.png" width="100%">
