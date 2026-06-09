@@ -50,8 +50,8 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 ## 🎓 Academic Information
 ## 👨‍💻 Team Members
 
-| No | Name                 | NRP        | Role              | 
-| -- | -------------------- | ---------- | ----------------- |
+| No | Name                 | NRP        | Role              |Akun GitHub                       |
+| -- | -------------------- | ---------- | ----------------- |https://github.com/RofifFairuzZaki|
 | 1  | Rofif Fairuz Zaki    | 2124600040 | Project Manager   |
 | 2  | Didit Bayu Kurnianto | 2124600047 | Programmer        |
 | 3  | Ridho Yanuar         | 2124600046 | Hardware Engineer |
