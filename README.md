@@ -160,10 +160,6 @@ Politeknik Elektronika Negeri Surabaya (PENS)
 
 --- 
 
-## Desain 3D 
-  
----
-
 ## 🔬 Sensors Used
 
 | Sensor           | Function                       |
