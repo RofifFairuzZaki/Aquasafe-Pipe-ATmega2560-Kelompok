@@ -6,7 +6,8 @@
 
 <img src="asset/banner.png" alt="AquaSafe Pipe Banner" width="100%">
 
-![Arduino](https://img.shields.io/badge/Arduino_Mega-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-Monitoring-blue?style=for-the-badge) ![Water Quality](https://img.shields.io/badge/Water-Quality-success?style=for-the-badge) ![Corrosion Detection](https://img.shields.io/badge/Corrosion-Detection-orange?style=for-the-badge) <a href="https://drive.google.com/drive/folders/1a8QJpJi3p21TPWfzdblMvVUY1U7iHCDc?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Simulasi-Google_Drive-25D366?style=for-the-badge&logo=google-drive&logoColor=white" alt="Simulasi" style="vertical-align:middle;"></a>
+![Arduino](https://img.shields.io/badge/Arduino_Mega-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<a href="https://drive.google.com/drive/folders/1a8QJpJi3p21TPWfzdblMvVUY1U7iHCDc?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Simulasi-Google_Drive-25D366?style=for-the-badge&logo=google-drive&logoColor=white" alt="Simulasi"></a>
 
 ### 🚰 Monitoring Kualitas Air dan Deteksi Korosi Pipa Berbasis IoT
 
