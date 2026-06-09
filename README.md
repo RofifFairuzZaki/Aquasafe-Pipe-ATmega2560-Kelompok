@@ -3,12 +3,11 @@
 # 💧 AquaSafe Pipe
 
 ### Smart IoT-Based Water Quality & Corrosion Monitoring System
-
 <img src="asset/Poster aquasafe.png" width="50%">
 
 <div align="center">
 
-<a href="#">
+<a href="https://wokwi.com/projects/466340546461805569" target="_blank">
     <img src="https://img.shields.io/badge/Arduino_Mega-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Mega">
 </a>
 
@@ -21,7 +20,6 @@
 </a>
 
 </div>
-
 ### 🚰 Monitoring Kualitas Air dan Deteksi Korosi Pipa Berbasis IoT
 
 </div>
