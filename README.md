@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Arduino_Mega-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Mega">
 </a>
 
-<a href="https://drive.google.com/drive/folders/1a8QJpJi3p21TPWfzdblMvVUY1U7iHCDc?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1aN81-LR9dHI82T2hj2gu4VYi9VdBelgS/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Video_Simulasi-00979D?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Simulasi">
 </a>
 
