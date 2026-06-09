@@ -237,6 +237,7 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 ---
 
 ## ⚙️  3D Desain
+Produk yang kita tawarkan adalah sambungan pipa yang sudah siap pasang dengan sensor-sensor yang sudah terpasang
 <div align="center">
 
 <img src="3D DESIGN/Screenshot 2026-06-09 175252.png">
