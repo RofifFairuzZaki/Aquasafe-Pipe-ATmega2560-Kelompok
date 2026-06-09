@@ -119,31 +119,12 @@ Politeknik Elektronika Negeri Surabaya (PENS)
 
 ## 🏗️ System Architecture
 
-```text
-                 WATER FLOW
-                      │
-                      ▼
-         ┌───────────────────────┐
-         │      pH Sensor        │
-         ├───────────────────────┤
-         │      TDS Sensor       │
-         ├───────────────────────┤
-         │   Turbidity Sensor    │
-         └───────────────────────┘
-                      │
-                      ▼
-         ┌───────────────────────┐
-         │    Arduino Mega       │
-         │      ATmega2560       │
-         └───────────────────────┘
-                      │
-                      ▼
-         ┌───────────────────────┐
-         │      IoT Dashboard    │
-         └───────────────────────┘
-                      │
-                      ▼
-              Alert & Monitoring
+<div align="center">
+    
+  <img src="asset/Screenshot%202026-06-09%20145007.png" width="900" alt="Screenshot">
+  
+</div>
+
 ```
 
 ## 🛠️ Technologies Used
