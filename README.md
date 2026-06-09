@@ -223,7 +223,11 @@ Politeknik Elektronika Negeri Surabaya (PENS)
 ---
 
 ## ⚙️  3D Desain
+<div align="center">
 
+<img src="3D DESIGN/Screenshot 2026-06-09 175252.png">
+
+</div>
 ---
 
 ## 📸 Project Documentation
@@ -245,5 +249,4 @@ Smart Monitoring • Safe Water • Better Future
 © 2026 Kelompok 4 – D4 Teknik Elektronika PENS
 
 </div>
-
 
