@@ -202,6 +202,9 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 
 ## Hardware
 <div align="center">
+  <img src="Hardware/Skematik.png" width="900">
+</div>
+<div align="center">
   <img src="asset/Screenshot%202026-06-07%20213132.png" width="900">
 </div>
 <div align="center">
@@ -210,6 +213,7 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 <div align="center">
   <img src="asset/Screenshot%202026-06-07%20213233.png" width="900">
 </div>
+
 
 ---
 
