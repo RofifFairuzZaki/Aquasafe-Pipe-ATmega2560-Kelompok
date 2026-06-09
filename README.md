@@ -231,18 +231,6 @@ Politeknik Elektronika Negeri Surabaya (PENS)
 
 ---
 
-## 🛠️ Technologies Used
-
-* Arduino Mega 2560
-* ATmega2560
-* IoT Dashboard
-* Embedded C Programming
-* Water Quality Sensors
-* Corrosion Monitoring System
-
----
-
-
 <div align="center">
 
 ### 💧 AquaSafe Pipe
