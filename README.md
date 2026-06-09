@@ -66,15 +66,16 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 
 ### Supported By
 
-&nbsp;&nbsp;•&nbsp;&nbsp;👨‍🏫 <b>Dosen Pengampu:</b> Akhmad Hendriawan, ST., MT. (NIP. 197501272002121003)
+```markdown
+- 👨‍🏫 **Dosen Pengampu :** Akhmad Hendriawan, ST., MT.  
+  NIP. 197501272002121003
 
-&nbsp;&nbsp;•&nbsp;&nbsp;📚 <b>Mata Kuliah:</b> Mikrokontroler
+- 📚 **Mata Kuliah :** Mikrokontroler
 
-&nbsp;&nbsp;•&nbsp;&nbsp;🎓 <b>Program Studi:</b> D4 Teknik Elektronika
+- 🎓 **Program Studi :** D4 Teknik Elektronika
 
-&nbsp;&nbsp;•&nbsp;&nbsp;🏛️ <b>Institusi:</b> Politeknik Elektronika Negeri Surabaya (PENS)
-
-</div>
+- 🏛️ **Institusi :** Politeknik Elektronika Negeri Surabaya (PENS)
+```
 
 ---
 
