@@ -34,18 +34,37 @@
 
 ## 📖 Overview
 
-AquaSafe Pipe merupakan sistem monitoring kualitas air berbasis Internet of Things (IoT) yang dirancang untuk menjaga keamanan distribusi air bersih melalui pemantauan parameter kualitas air secara real-time.
+📝 Deskripsi Proyek
+AquaSafe Pipe adalah solusi Internet of Things (IoT) berbasis mikrokontroler yang dirancang untuk menjawab tantangan keamanan distribusi air bersih. Sistem ini melakukan pemantauan parameter kualitas air secara real-time untuk mendeteksi dini risiko korosi pipa dan kontaminasi logam berat (seperti Timbal/Pb) yang sangat berbahaya bagi kesehatan.
 
-Sistem menggunakan **Arduino Mega 2560 (ATmega2560)** sebagai pusat kendali yang terintegrasi dengan beberapa sensor kualitas air, yaitu:
+Dengan integrasi sensor presisi dan konektivitas IoT, AquaSafe Pipe memberikan visibilitas penuh atas kondisi air yang mengalir di pipa distribusi, memungkinkan pengelola sistem air untuk mengambil tindakan preventif sebelum terjadi kegagalan infrastruktur atau pencemaran massal.
 
-*🌡️ Sensor pH
-* 💧 Sensor TDS (Total Dissolved Solids)
-* 🌫️ Sensor Turbidity (Kekeruhan)
+🚀 Fitur Utama
+Pemantauan Real-Time: Monitoring kontinu parameter kualitas air (pH, TDS, Kekeruhan).
 
-Data dari sensor dikirim secara real-time ke dashboard IoT sehingga memungkinkan pemantauan jarak jauh dan deteksi dini terhadap kondisi yang berpotensi menyebabkan korosi pipa serta kontaminasi logam berat seperti Timbal (Pb).
+Deteksi Korosi: Analisis data untuk mengidentifikasi kondisi air yang agresif (risiko tinggi korosi).
 
----
+Dashboard IoT: Visualisasi data jarak jauh yang informatif dan mudah diakses.
 
+Peringatan Dini: Sistem notifikasi otomatis jika parameter air melewati ambang batas keamanan.
+
+Skalabilitas Tinggi: Menggunakan Arduino Mega 2560 yang memungkinkan penambahan sensor tambahan di masa depan.
+
+🛠️ Spesifikasi Teknis
+Perangkat Keras (Hardware)
+Microcontroller: Arduino Mega 2560 (ATmega2560)
+
+Sensor Kualitas Air:
+
+Sensor pH: Mengukur tingkat keasaman/kebasaan air.
+
+Sensor TDS: Mengukur total padatan terlarut (kadar mineral/kontaminan).
+
+Sensor Turbidity: Mengukur tingkat kekeruhan air.
+
+Komunikasi: I2C untuk display dan UART virtual untuk Streamlit phyton
+
+Power Supply: 12V DC Adapter
 ## 🎯 Project Objective
 
 Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Mega yang mampu mendeteksi potensi korosi dan pelarutan timbal (Pb) secara real-time guna mencegah kontaminasi air bersih serta memungkinkan tindakan preventif secara cepat melalui dashboard monitoring jarak jauh.
