@@ -6,8 +6,21 @@
 
 <img src="asset/banner.png" alt="AquaSafe Pipe Banner" width="100%">
 
-![Arduino](https://img.shields.io/badge/Arduino_Mega-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-<a href="https://drive.google.com/drive/folders/1a8QJpJi3p21TPWfzdblMvVUY1U7iHCDc?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Simulasi-Google_Drive-25D366?style=for-the-badge&logo=google-drive&logoColor=white" alt="Simulasi"></a>
+<div align="center">
+
+<a href="#">
+    <img src="https://img.shields.io/badge/Arduino_Mega-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Mega">
+</a>
+
+<a href="https://drive.google.com/drive/folders/1a8QJpJi3p21TPWfzdblMvVUY1U7iHCDc?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Video_Simulasi-FF4B4B?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Simulasi">
+</a>
+
+<a href="https://www.canva.com/design/DAHLUscpbcU/ThfkQryM6eWiujemS9Ijmg/edit" target="_blank">
+    <img src="https://img.shields.io/badge/PPT_Presentasi-7B61FF?style=for-the-badge&logo=canva&logoColor=white" alt="PPT Presentasi">
+</a>
+
+</div>
 
 ### 🚰 Monitoring Kualitas Air dan Deteksi Korosi Pipa Berbasis IoT
 
