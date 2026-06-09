@@ -49,7 +49,7 @@ Membangun sistem pemantauan kualitas air pipa berbasis mikrokontroler Arduino Me
 ---
 ## 🎓 Academic Information
 
-<img src="">
+<img src="https://github.com/RofifFairuzZaki/Aquasafe-Pipe-ATmega2560-Kelompok/blob/798f2d8483b9239809da75287bcfceb59c081fe5/asset/Screenshot%202026-06-09%20152330.png">
 
 ## 👨‍💻 Team Members
 
