@@ -8,6 +8,10 @@
 
 <div align="center">
 
+<a href="https://drive.google.com/file/d/1exolgNT_7C1orGgCGeEG5BHzvhRbQCNA/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Video_Kelompok-00979D?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Kelompok">
+</a>
+
 <a href="https://wokwi.com/projects/466340546461805569" target="_blank">
     <img src="https://img.shields.io/badge/Arduino_Mega-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Mega">
 </a>
